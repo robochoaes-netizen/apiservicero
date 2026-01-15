@@ -1,0 +1,12 @@
+/home/user/apiservicero/api.service.ro.domain/bin/Debug/net9.0/api.service.ro.domain.deps.json
+/home/user/apiservicero/api.service.ro.domain/bin/Debug/net9.0/api.service.ro.domain.dll
+/home/user/apiservicero/api.service.ro.domain/bin/Debug/net9.0/api.service.ro.domain.pdb
+/home/user/apiservicero/api.service.ro.domain/obj/Debug/net9.0/api.service.ro.domain.csproj.AssemblyReference.cache
+/home/user/apiservicero/api.service.ro.domain/obj/Debug/net9.0/api.service.ro.domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/apiservicero/api.service.ro.domain/obj/Debug/net9.0/api.service.ro.domain.AssemblyInfoInputs.cache
+/home/user/apiservicero/api.service.ro.domain/obj/Debug/net9.0/api.service.ro.domain.AssemblyInfo.cs
+/home/user/apiservicero/api.service.ro.domain/obj/Debug/net9.0/api.service.ro.domain.csproj.CoreCompileInputs.cache
+/home/user/apiservicero/api.service.ro.domain/obj/Debug/net9.0/api.service.ro.domain.dll
+/home/user/apiservicero/api.service.ro.domain/obj/Debug/net9.0/refint/api.service.ro.domain.dll
+/home/user/apiservicero/api.service.ro.domain/obj/Debug/net9.0/api.service.ro.domain.pdb
+/home/user/apiservicero/api.service.ro.domain/obj/Debug/net9.0/ref/api.service.ro.domain.dll

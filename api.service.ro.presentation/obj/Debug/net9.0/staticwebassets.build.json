@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dIQaHCM9bD/leUbyv/U7qQ4ASQHPnxubEh8ScGMaLO4=",
+  "Source": "api.service.ro.presentation",
+  "BasePath": "_content/api.service.ro.presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

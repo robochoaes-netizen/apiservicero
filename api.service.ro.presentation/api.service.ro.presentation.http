@@ -1,0 +1,6 @@
+@api.service.ro.presentation_HostAddress = http://localhost:5112
+
+GET {{api.service.ro.presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

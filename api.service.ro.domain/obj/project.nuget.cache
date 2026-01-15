@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "mpyn6MEVLCI=",
+  "success": true,
+  "projectFilePath": "/home/user/apiservicero/api.service.ro.domain/api.service.ro.domain.csproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/microsoft.entityframeworkcore/9.0.11/microsoft.entityframeworkcore.9.0.11.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.11/microsoft.entityframeworkcore.abstractions.9.0.11.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.entityframeworkcore.analyzers/9.0.11/microsoft.entityframeworkcore.analyzers.9.0.11.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.11/microsoft.extensions.caching.abstractions.9.0.11.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.caching.memory/9.0.11/microsoft.extensions.caching.memory.9.0.11.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.11/microsoft.extensions.dependencyinjection.9.0.11.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.11/microsoft.extensions.dependencyinjection.abstractions.9.0.11.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.logging/9.0.11/microsoft.extensions.logging.9.0.11.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.11/microsoft.extensions.logging.abstractions.9.0.11.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.options/9.0.11/microsoft.extensions.options.9.0.11.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.primitives/9.0.11/microsoft.extensions.primitives.9.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

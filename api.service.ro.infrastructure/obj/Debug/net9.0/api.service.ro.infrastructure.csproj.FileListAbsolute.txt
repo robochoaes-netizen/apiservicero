@@ -1,0 +1,17 @@
+/home/user/apiservicero/api.service.ro.infrastructure/bin/Debug/net9.0/api.service.ro.infrastructure.deps.json
+/home/user/apiservicero/api.service.ro.infrastructure/bin/Debug/net9.0/api.service.ro.infrastructure.runtimeconfig.json
+/home/user/apiservicero/api.service.ro.infrastructure/bin/Debug/net9.0/api.service.ro.infrastructure.dll
+/home/user/apiservicero/api.service.ro.infrastructure/bin/Debug/net9.0/api.service.ro.infrastructure.pdb
+/home/user/apiservicero/api.service.ro.infrastructure/bin/Debug/net9.0/api.service.ro.domain.dll
+/home/user/apiservicero/api.service.ro.infrastructure/bin/Debug/net9.0/api.service.ro.domain.pdb
+/home/user/apiservicero/api.service.ro.infrastructure/obj/Debug/net9.0/api.service.ro.infrastructure.csproj.AssemblyReference.cache
+/home/user/apiservicero/api.service.ro.infrastructure/obj/Debug/net9.0/api.service.ro.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/apiservicero/api.service.ro.infrastructure/obj/Debug/net9.0/api.service.ro.infrastructure.AssemblyInfoInputs.cache
+/home/user/apiservicero/api.service.ro.infrastructure/obj/Debug/net9.0/api.service.ro.infrastructure.AssemblyInfo.cs
+/home/user/apiservicero/api.service.ro.infrastructure/obj/Debug/net9.0/api.service.ro.infrastructure.csproj.CoreCompileInputs.cache
+/home/user/apiservicero/api.service.ro.infrastructure/obj/Debug/net9.0/api.serv.C31A93A8.Up2Date
+/home/user/apiservicero/api.service.ro.infrastructure/obj/Debug/net9.0/api.service.ro.infrastructure.dll
+/home/user/apiservicero/api.service.ro.infrastructure/obj/Debug/net9.0/refint/api.service.ro.infrastructure.dll
+/home/user/apiservicero/api.service.ro.infrastructure/obj/Debug/net9.0/api.service.ro.infrastructure.pdb
+/home/user/apiservicero/api.service.ro.infrastructure/obj/Debug/net9.0/api.service.ro.infrastructure.genruntimeconfig.cache
+/home/user/apiservicero/api.service.ro.infrastructure/obj/Debug/net9.0/ref/api.service.ro.infrastructure.dll
