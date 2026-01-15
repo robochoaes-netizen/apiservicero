@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("api.service.ro.presentation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d6e618080dd7d941aeebfb3cfd76205920c9d03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33b36bd6e915254dba0936be942672452aaf35bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("api.service.ro.presentation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("api.service.ro.presentation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
