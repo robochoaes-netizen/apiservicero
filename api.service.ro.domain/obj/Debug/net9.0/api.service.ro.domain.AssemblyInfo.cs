@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("api.service.ro.domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33b36bd6e915254dba0936be942672452aaf35bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0af87a3ff50d9f98155247ba2f5ce8af515d5b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("api.service.ro.domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("api.service.ro.domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
